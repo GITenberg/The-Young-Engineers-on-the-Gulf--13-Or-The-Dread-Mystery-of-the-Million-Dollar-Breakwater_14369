@@ -1,0 +1,32 @@
+_repo: The-Young-Engineers-on-the-Gulf--13-Or-The-Dread-Mystery-of-the-Million-Dollar-Breakwater_14369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil engineers -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Gulf Coast (Ala.) -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Young Engineers on the Gulf\r\nOr, The Dread Mystery of the Million Dollar\
+  \ Breakwater"
+url: http://www.gutenberg.org/ebooks/14369
